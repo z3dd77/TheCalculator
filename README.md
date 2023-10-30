@@ -10,4 +10,4 @@ A "Clear" button resets the calculator, clearing both the display and operator l
 
 In conclusion, this calculator combines tutorial-based development with personal enhancements, offering a refined and user-friendly tool for precise calculations. Its design and functionality strike a balance between art and science, catering to users seeking both precision and elegance in their computations.
 
-Link for the YouTube ide that helped me: https://youtu.be/Xp4S4KMxYJA?si=WXXuhrq2ul8l0cQa
+Link for the YouTube video that helped me: https://youtu.be/Xp4S4KMxYJA?si=WXXuhrq2ul8l0cQa
